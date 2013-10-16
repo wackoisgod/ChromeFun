@@ -1,0 +1,16 @@
+{
+  "name": "Tab Tab Revolution",
+  "options_page": "options.html",
+  "description": "Prevents me from crazy!",
+  "version": "0.1",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "notifications"
+  ],
+  "browser_action": {
+      "default_name": "Page Language"
+  },
+  "manifest_version": 2
+}
